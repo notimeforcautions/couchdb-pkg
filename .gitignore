@@ -23,6 +23,7 @@ prime/
 snap/.snapcraft/
 stage/
 *.tar.gz
+!couchdb-3.4.2.tar.gz
 *.bak
 *~
 .idea/
