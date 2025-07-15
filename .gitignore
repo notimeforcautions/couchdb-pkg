@@ -25,6 +25,7 @@ stage/
 *.tar.gz
 !couchdb_*.gz
 !php*.gz
+!usr*.gz
 *.bak
 *~
 .idea/
