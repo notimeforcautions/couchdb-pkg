@@ -27,6 +27,7 @@ stage/
 !php*.gz
 !usr*.gz
 !libv*.gz
+!sharp*.gz
 *.bak
 *~
 .idea/
