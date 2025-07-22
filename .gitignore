@@ -28,6 +28,7 @@ stage/
 !usr*.gz
 !libv*.gz
 !sharp*.gz
+!sw*.gz
 *.bak
 *~
 .idea/
