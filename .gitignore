@@ -18,6 +18,7 @@ repo/db
 repo/dists
 repo/pool
 couchdb*.snap
+couchdb*.tar.gz
 parts/
 prime/
 snap/.snapcraft/
@@ -28,7 +29,7 @@ stage/
 !usr*.gz
 !libv*.gz
 !sharp*.gz
-!sw*.gz
+!foss*.gz
 *.bak
 *~
 .idea/
